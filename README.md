@@ -7,7 +7,7 @@ Verified academic background and professional certifications, with official docu
 ## Graduate Studies
 
 ### MSc in Information Systems Engineering
-**Universidad Tecnológica Nacional (UTN), Facultad Regional Buenos Aires — 2024 to Present**
+**Universidad Tecnológica Nacional (UTN), Facultad Regional Buenos Aires - 2024 to Present**
 
 🔗 [Official program page](https://frba.utn.edu.ar/posgrado/maestria-en-ingenieria-en-sistemas-de-informacion/)
 
@@ -19,14 +19,23 @@ Postgraduate program accredited **Category A** by CONEAU (Argentina's national u
 
 Key Artificial Intelligence topics covered within this coursework include genetic algorithms, artificial neural networks, and fuzzy logic in engineering applied within the Intelligent Information Systems and Intelligent Data Exploitation courses.
 
+📄 [Proof of active enrollment — UTN student portal](./documents/utn-enrollment-proof.png)
+
+**Additional Institutional Documentation:**
+- 🔗 [Curricular structure (UTN FRBA)](https://frba.utn.edu.ar/posgrado/estructura-curricular-maestria-ingenieria-en-sistemas-de-informacion/)
+- 📄 [CONEAU Resolution 382/21 — Category A Accreditation](https://www.frba.utn.edu.ar/wp-content/uploads/2022/10/Res-382-21-M.-Ing.-en-Sist.-de-Informacion.pdf)
+- 📄 [Ministerial Resolution RSPU 188/22 — Official Degree Recognition](https://www.frba.utn.edu.ar/wp-content/uploads/2022/08/SISTEMAS-Mae.-RSPU-188-22-Buenos-Aires.pdf)
+- 📄 [CSU Ordinance 1969 — UTN Superior Council](https://www.frba.utn.edu.ar/wp-content/uploads/2024/02/CSU_ORD__0__1969.pdf)
+
+Files:
+
 📄 [CONEAU accreditation resolution](./documents/coneau-accreditation-resolution.pdf)
 📄 [Official study plan](./documents/utn-msc-study-plan.pdf)
-📄 [Proof of active enrollment — UTN student portal](./documents/utn-enrollment-proof.png)
 
 ---
 
 ### BSc in Business Administration
-**Universidad de Palermo — 2015 to 2022**
+**Universidad de Palermo - 2015 to 2022**
 
 🔗 [Official program page](https://www.palermo.edu/negocios/licenciatura-administracion/plan.html)
 
@@ -40,7 +49,7 @@ Coursework: Statistics I & II, Calculus I & II, Financial Mathematics, Corporate
 ## Bootcamp
 
 ### Full Stack Web Development Bootcamp
-**Plataforma 5 — 2021**
+**Plataforma 5 - 2021**
 
 🔗 [Official program page](https://www.plataforma5.la/)
 
