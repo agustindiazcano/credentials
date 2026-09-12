@@ -69,6 +69,20 @@ Coursework: Statistics I & II, Calculus I & II, Financial Mathematics, Corporate
 📄 [Certificate](./certificates/VTEX_TechTraining2023.jpeg)
 - Module Certificates: [Block 1](./certificates/VTEX_TechTraining2023_Bloque1.jpeg) · [Block 2](./certificates/VTEX_TechTraining2023_Bloque2.jpeg) · [Block 3](./certificates/VTEX_TechTraining2023_Bloque3.jpeg)
 
+### Claude Academy (2026)
+
+- **Claude Platform 101**
+  - 📄 [Certificate](./courses/claude-platform-101-agustin-diaz-cano.png)
+  - 🔗 [Verify Credential](https://academy.claude.com/verify/f420c8029d7b9d549b433b260a20ddf0)
+
+- **Introduction to Model Context Protocol**
+  - 📄 [Certificate](./courses/introduction-to-model-context-protocol-agustin-diaz-cano.png)
+  - 🔗 [Verify Credential](https://academy.claude.com/verify/5b1b9259832b840ef40e7cdbaa001ba9)
+
+- **Claude Code 101**
+  - 📄 [Certificate](./courses/claude-code-101-agustin-diaz-cano.png)
+  - 🔗 [Verify Credential](https://academy.claude.com/verify/4bc63266f7750d8d7abf624b5f838818)
+
 ---
 
 ## Supplementary Coursework
