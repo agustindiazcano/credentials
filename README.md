@@ -79,9 +79,17 @@ Coursework: Statistics I & II, Calculus I & II, Financial Mathematics, Corporate
   - 📄 [Certificate](./courses/introduction-to-model-context-protocol-agustin-diaz-cano.png)
   - 🔗 [Verify Credential](https://academy.claude.com/verify/5b1b9259832b840ef40e7cdbaa001ba9)
 
+- **Model Context Protocol: Advanced Topics**
+  - 📄 [Certificate](./courses/model-context-protocol-advanced-topics-agustin-diaz-cano.png)
+  - 🔗 [Verify Credential](https://academy.claude.com/badges/17a347f5-3fbb-4053-a1d3-0fa0b71ada8a)
+
 - **Claude Code 101**
   - 📄 [Certificate](./courses/claude-code-101-agustin-diaz-cano.png)
   - 🔗 [Verify Credential](https://academy.claude.com/verify/4bc63266f7750d8d7abf624b5f838818)
+
+- **Claude Code in Action**
+  - 📄 [Certificate](./courses/claude-code-in-action-agustin-diaz-cano.png)
+  - 🔗 [Verify Credential](https://academy.claude.com/badges/3f41a201-39c4-49f8-92ba-1a2c11904ea8)
 
 ---
 
